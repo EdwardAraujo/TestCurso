@@ -1,0 +1,7 @@
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\bin\Debug\ProjetoGit.exe.config
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\bin\Debug\ProjetoGit.exe
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\bin\Debug\ProjetoGit.pdb
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\obj\Debug\ProjetoGit.csprojAssemblyReference.cache
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\obj\Debug\ProjetoGit.csproj.CoreCompileInputs.cache
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\obj\Debug\ProjetoGit.exe
+C:\Users\edward.araujo\Desktop\Curso C# Completo 2020-Udemy\ProjetoGit\ProjetoGit\obj\Debug\ProjetoGit.pdb
